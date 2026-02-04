@@ -1,0 +1,17 @@
+# Build artifacts
+/ironstack
+/ironstack.exe
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
